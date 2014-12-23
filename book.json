@@ -1,0 +1,13 @@
+{
+    "name": "apebook的prd",
+    "version": "0.0.1",
+    "description": "apebook的prd",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/apebook/prd.git"
+    },
+    "author": "admin@widuu.com",
+    "dependencies": {
+        "gitbook-plugin-autocover": "0.0.5"
+    }
+}
